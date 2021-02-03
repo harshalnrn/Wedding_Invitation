@@ -1,0 +1,72 @@
+#intro1{
+   /* position: fixed;*/
+    /*bottom: 0; */
+    display: table;
+    margin: 0 auto;  
+     
+    word-wrap: break-word; 
+  
+    /* float: right; */
+    /* margin: 10px; */
+    font-family: 'Corben';
+   /* font-size: 25px;*/
+    font-weight: bold; 
+    text-align: center;
+}
+
+#intro2{  
+   /* position: fixed;      */ 
+   display: table;
+    margin: 0 auto;  
+
+}
+.h1{
+    text-align: center;
+    height:100%;
+    width:100%;
+}
+
+#intro3{
+    display: table;
+    margin: 0 auto;
+}
+#intro4{
+    display: table;
+    margin: 0 auto;
+}
+#intro5{
+    display: table;
+    margin: 0 auto;
+}
+#container{
+    /*background-image:url("wallpaper1.jpg");  */
+    /*background-color:burlywood;*/
+    overflow-y: hidden;
+    overflow-x: hidden;
+    background-repeat:no-repeat;
+   
+
+}
+ #myVideo{
+    /* position: absolute; */
+    /* z-index: -1;
+    top: 0;
+    left: 0; */
+    width: 100%; 
+    height: 100%;
+    object-fit: cover;
+  } 
+  .border{
+    border:solid 2px black;
+  }
+  #headline{
+      font-family: 'Oleo Script';
+  }
+ 
+  #image{
+    width: 100%; 
+    height: 100%;
+    object-fit: cover;   
+  }
+
+
